@@ -31,7 +31,7 @@ Follow these instructions to set up and run the website locally on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-website-repo.git
+   git clone https://github.com/muhammadahmadsiddiqui/devsinc-ui-assignment.git
    ```
 
 2. Navigate to the project directory:
